@@ -1,0 +1,17 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "iru-cache",
+    "build":"Hello World ' running build script'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lru-cache": "^11.0.0"
+  }
+}
